@@ -1,4 +1,19 @@
+/* 
+========================================= 
+========================================= 
 
+Designer Template By Bootstrapious.com 
+
+========================================= 
+========================================= */
+/* variant 5 - red */
+/*
+
+=====================
+GENERAL
+=====================
+
+*/
 html {
   height: 100%;
 }
@@ -1372,59 +1387,4 @@ p.social a {
   transition: all 0.2s ease-out;
   vertical-align: bottom;
   border: solid 1px #ccc;
-}
-p.social a i {
-  vertical-align: bottom;
-  line-height: 40px;
-}
-p.social a.facebook {
-  background-color: #4460ae;
-  border-color: #4460ae;
-}
-p.social a.gplus {
-  background-color: #c21f25;
-  border-color: #c21f25;
-}
-p.social a.twitter {
-  background-color: #3cf;
-  border-color: #3cf;
-}
-p.social a.instagram {
-  background-color: #cd4378;
-  border-color: #cd4378;
-}
-p.social a.email {
-  background-color: #4a7f45;
-  border-color: #4a7f45;
-}
-p.social a.link {
-  background-color: #871AFF;
-  border-color: #871AFF;
-}
-p.social.social--outline a {
-  background: transparent;
-}
-p.social.social--outline a.facebook {
-  color: #4460ae;
-  border-color: #4460ae;
-}
-p.social.social--outline a.gplus {
-  color: #c21f25;
-  border-color: #c21f25;
-}
-p.social.social--outline a.twitter {
-  color: #3cf;
-  border-color: #3cf;
-}
-p.social.social--outline a.instagram {
-  color: #cd4378;
-  border-color: #cd4378;
-}
-p.social.social--outline a.email {
-  color: #4a7f45;
-  border-color: #4a7f45;
-}
-p.social.social--outline a.link {
-  color: #871AFF;
-  border-color: #871AFF;
 }
