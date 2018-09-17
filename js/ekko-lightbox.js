@@ -6,7 +6,7 @@ License: https://github.com/ashleydw/lightbox/blob/master/LICENSE
 */
 
 
-(function($) {
+(function() {
   "use strict";
   var $, EkkoLightbox;
 
@@ -397,4 +397,4 @@ License: https://github.com/ashleydw/lightbox/blob/master/LICENSE
     onContentLoaded: function() {}
   };
 
-}).call(this);(jQuery); 
+}).call(this);
