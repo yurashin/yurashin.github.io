@@ -6,7 +6,7 @@ License: https://github.com/ashleydw/lightbox/blob/master/LICENSE
 */
 
 
-(function() {
+(function($) {
   "use strict";
   var $, EkkoLightbox;
 
